@@ -1,10 +1,11 @@
-# Ron Swanson quotes API
+# Bad Guy Quotes API (Forked from Ron Swanson API)
 
-Because Ron Swanson is a hero. Just a ridiculously simple Node.js server.
+Because I was bored at work today 
+
 
 ## Production host
 
-[https://ron-swanson-quotes.herokuapp.com/v2/quotes](http://ron-swanson-quotes.herokuapp.com/v2/quotes)
+[Not Promising to keep this running](https://bad-guy-quotes.herokuapp.com/v2/quotes)
 
 The `Access-Control-Allow-Origin` header is set to `*` so that you can make requests from any domain.
 
