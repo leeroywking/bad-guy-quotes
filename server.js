@@ -22,7 +22,7 @@ app.all("*", (req, res, next) => {
     next();
 });
 
-app.get("/v2/quotes/:num?", (req, res) => {
+app.get("/:num?", (req, res) => {
     res.send(getRandomQuotes(parseInt(req.params.num, 10) || 1));
 });
 
