@@ -5,7 +5,7 @@ Because I was bored at work today
 
 ## Production host
 
-[Not Promising to keep this running](https://bad-guy-quotes.herokuapp.com/v2/quotes)
+[Not Promising to keep this running](https://bad-guy-quotes.herokuapp.com/)
 
 The `Access-Control-Allow-Origin` header is set to `*` so that you can make requests from any domain.
 
