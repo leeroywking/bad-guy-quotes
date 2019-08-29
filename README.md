@@ -1,4 +1,4 @@
-# Bad Guy Quotes API (Forked from Ron Swanson API)
+# Bad Guy Quotes API (Forked from [Ron Swanson API](https://github.com/jamesseanwright/ron-swanson-quotes))
 
 Because I was bored at work today 
 
